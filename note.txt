@@ -1,0 +1,2 @@
+Docker is usable, manual run is currently error.
+I'm Dan, this is my first repo, I run it by myself
